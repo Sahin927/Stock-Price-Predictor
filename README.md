@@ -13,8 +13,3 @@ This project uses **Linear Regression** (and can be extended with advanced ML mo
 - Easy to extend with more advanced ML models
 
 ---
-
-## 📦 Installation
-
-### Clone the repository
-```bash
